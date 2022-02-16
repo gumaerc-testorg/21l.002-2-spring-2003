@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: The Essays Of Montaige
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/5d8ff952a06bdef51fe0d32960653f41_lec2cannibals.pdf
+file: /media/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/5d8ff952a06bdef51fe0d32960653f41_lec2cannibals.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: lec2cannibals.pdf
 uid: 5d8ff952-a06b-def5-1fe0-d32960653f41
