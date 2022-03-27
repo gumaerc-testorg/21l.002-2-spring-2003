@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9d677270-b413-81a7-a236-550671a4302c
 resourcetype: Document
 title: lec12.pdf
 uid: da4e423e-d4c5-729a-ae40-c9493eaa3f51
