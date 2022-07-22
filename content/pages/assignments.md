@@ -1,13 +1,16 @@
 ---
 content_type: page
+description: ''
+draft: false
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 6d0eea57-4a0a-bdb2-6041-6a45214094c1
 ---
+Much of the grade will depend upon the quality of three written assignments required by the course, and spaced fairly evenly over the term: the papers will total twenty pages in entirety, two papers running to at least six pages each and a final paper running to at least eight pages. The papers will each deal with some aspect of the readings and discussion; topics may be invented by the students but an extensive list of suggested topics will be circulated two weeks in advance of each paper’s due date for those students who require it. The first of these papers will be rewritten upon its return and resubmitted in a form compliant with corrections made by the instruction on the pages of the first version. The second paper may be treated in the same way, depending upon the instructor’s judgment. The subject will also offer students opportunity for oral expression by reason of (a) its discussion format and (b) a division into groups of two or three students (depending upon enrollment), each of which will make two fifteen-minute presentations of materials conducive to the discussion of a given assignment, following the model of such presentations offered by the instructor at the outset of the term. The maximum number of students per section of this subject is 18, except in cases where there are no sections and where a writing fellow is attached to the subject, in which case the enrollment can rise to 25. There will be no final examination. Below are discussion questions for each of the class sessions and the paper assignments for the course.
 
-Much of the grade will depend upon the quality of three written assignments required by the course, and spaced fairly evenly over the term: the papers will total twenty pages in entirety, two papers running to at least six pages each and a final paper running to at least eight pages. The papers will each deal with some aspect of the readings and discussion; topics may be invented by the students but an extensive list of suggested topics will be circulated two weeks in advance of each paper’s due date for those students who require it. The first of these papers will be rewritten upon its return and resubmitted in a form compliant with corrections made by the instruction on the pages of the first version. The second paper may be treated in the same way, depending upon the instructor’s judgment. The subject will also offer students opportunity for oral expression by reason of (a) its discussion format and (b) a division into groups of two or three students (depending upon enrollment), each of which will make two fifteen-minute presentations of materials conducive to the discussion of a given assignment, following the model of such presentations offered by the instructor at the outset of the term. The maximum number of students per section of this subject is 18, except in cases where there are no sections and where a writing fellow is attached to the subject, in which case the enrollment can rise to 25. There will be no final examination. Below are discussion questions for each of the class sessions and the [paper assignments](#paper) for the course.
-
-Lecture #1 - THE PRINCE by Nicolo Machiavelli (1515)
-----------------------------------------------------
+## Lecture #1 - THE PRINCE by Nicolo Machiavelli (1515)
 
 **Topics for Discussion:**
 
@@ -19,25 +22,23 @@ Lecture #1 - THE PRINCE by Nicolo Machiavelli (1515)
 
 4\. Machiavelli reserves special praise for Hannibal (page 6), whose "inhuman cruelty, together with his infinite other virtues, made him always venerated and terrible in the sight of his soldiers." No doubt in Hannibal's day, and perhaps in Machiavelli's too, the nature of armies made fear of swift and terrible punishment an emotion that a commander-in-chief had to cultivate. It may seem that Hannibal, the army commander, is not a fit model for heads of state. But Machiavelli's advice was intended for rulers in times of peace as well as war and concerned the nature of command, which has always to deal with the image that the ruler must project if he (or she--but that possibility never occurred to Machiavelli) is to be effective both within the state and without. Indeed, you might sum up Machiavelli's teaching as follows: "Never mind reality, the image is everything". Is this wrongheaded advice?
 
-Lecture #2 - UTOPIA by Sir Thomas More (1516)
----------------------------------------------
+## Lecture #2 - UTOPIA by Sir Thomas More (1516)
 
 **Topics for Discussion:**
 
-1\. More's _Utopia_ gave its name to a genre of literature. On the basis of More's text, how would you describe a utopia? Machiavelli claimed to be introducing a new kind of writing about political authority, one that would pay attention to the "real world" and not lose itself in dream about what might be. How would you regard More's _Utopia_ from this standpoint?
+1\. More's *Utopia* gave its name to a genre of literature. On the basis of More's text, how would you describe a utopia? Machiavelli claimed to be introducing a new kind of writing about political authority, one that would pay attention to the "real world" and not lose itself in dream about what might be. How would you regard More's *Utopia* from this standpoint?
 
-2\. What are the chief features of More's _Utopia_, as you see it? Of which do you particularly approve? Which do you find objectionable?
+2\. What are the chief features of More's *Utopia*, as you see it? Of which do you particularly approve? Which do you find objectionable?
 
 3\. During the last Presidential campaign, the Democratic nominee for vice-president said that no one can be moral who does not believe in God? What would the Utopians say about this opinion? How do the Utopians regard religious dissent? More was Chancellor of England - the most important governmental officer of his day - and in that capacity he condemned heretics to be burned alive at the stake. He also practiced self-flagellation (whipping oneself to punish the flesh for its unholy desires). What can you say in defense of such practices? Would More's Utopians have approved of More's behavior?
 
 4\. The basis of the Utopian ethical philosophy lies in their praise of pleasure as the aim of all action - what we call the pursuit of happiness is not, in their view, the pursuit of an illusion. Is this a good basis for ethics? The Utopians all agree upon what counts as pleasure. How easy is it to reach agreement on this subject? How do they account for the fact that some people have pleasures which can be obtained only at the expense of others?
 
-5\. There is a uniformity of life in _Utopia -_ uniformity of thinking, of ambition, of manners, of dress. What can be said in defense of such a life? What can be argued against it? What would the Utopians say to those who offered arguments against it?
+5\. There is a uniformity of life in *Utopia -* uniformity of thinking, of ambition, of manners, of dress. What can be said in defense of such a life? What can be argued against it? What would the Utopians say to those who offered arguments against it?
 
 6\. At the end of the text, the character (More) argues that Utopian institutions are unsuitable for Europeans? How should one view his opinion? Does he express the view of the author, More, who wrote the text?
 
-Lecture #3 - THE ESSAYS OF MONTAIGNE (Of Repentance, Of Diversion, Of Conserving the Will, Of Experience)
----------------------------------------------------------------------------------------------------------
+## Lecture #3 - THE ESSAYS OF MONTAIGNE (Of Repentance, Of Diversion, Of Conserving the Will, Of Experience)
 
 **Topics for Discussion:**
 
@@ -53,8 +54,7 @@ Lecture #3 - THE ESSAYS OF MONTAIGNE (Of Repentance, Of Diversion, Of Conserving
 
 6\. How does Montaigne's description of Cannibals compare with More's Utopians (who come from the same part of the world)?
 
-Lecture #4 - KING LEAR by Shakespeare
--------------------------------------
+## Lecture #4 - KING LEAR by Shakespeare
 
 **Topics For Discussion:**
 
@@ -72,8 +72,7 @@ Lecture #4 - KING LEAR by Shakespeare
 
 7\. If fortune rules the world, where is justice to be found? The characters have much to say about this as well, most famously in Lear's "mad" speech upon the heath. What view do the various characters take of this subject?
 
-Lecture #7 - LEVIATHAN by Thomas Hobbes (1651)
-----------------------------------------------
+## Lecture #7 - LEVIATHAN by Thomas Hobbes (1651)
 
 **Topics for Discussion:**
 
@@ -101,8 +100,7 @@ At any given moment, they are the overall resolution of innumerable differing re
 
 9\. What is the role of government in Hobbes? If Hobbes were alive today, would he vote Democrat or vote Republican?
 
-Lecture #8 - GULLIVER'S TRAVELS, IV by Jonathan Swift
------------------------------------------------------
+## Lecture #8 - GULLIVER'S TRAVELS, IV by Jonathan Swift
 
 **Topics for Discussion:**
 
@@ -120,8 +118,7 @@ Lecture #8 - GULLIVER'S TRAVELS, IV by Jonathan Swift
 
 7\. How close does Gulliver come to representing Swift? Do you think that Gulliver's rejection of humankind at the end of the book--his loathing of even so humane a person as Don Pedro--is taken to express Swift's own feelings?
 
-Lecture #10 - ON THE INEQUALITY AMONG MANKIND by Jean Jacques Rousseau (1712-1778)
-----------------------------------------------------------------------------------
+## Lecture #10 - ON THE INEQUALITY AMONG MANKIND by Jean Jacques Rousseau (1712-1778)
 
 **Topics for Discussion:**
 
@@ -141,8 +138,7 @@ Lecture #10 - ON THE INEQUALITY AMONG MANKIND by Jean Jacques Rousseau (1712-177
 
 8\. Is Rousseau a partisan of the idea of progress? Do you believe in a course of progress marking the growth of civilized institutions?
 
-Lecture #15 - FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS by Immanuel Kant (1785)
-----------------------------------------------------------------------------------------
+## Lecture #15 - FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS by Immanuel Kant (1785)
 
 **Topics for Discussion:**
 
@@ -160,20 +156,19 @@ Lecture #15 - FUNDAMENTAL PRINCIPLES OF THE METAPHYSIC OF MORALS by Immanuel Kan
 
 7\. Kant does not believe in the authority of "role-models". He says, in effect, that you cannot "imitate Christ" until you recognize his perfection and this recognition depends upon your already knowing what it means to be perfect. Jesus, it would appear (although Kant does not say this), cannot teach us anything that we do not already know. What do you think of this argument? What would More's Utopians say to it?
 
-Lecture #16 - PRIDE AND PREJUDICE by Jane Austen
-------------------------------------------------
+## Lecture #16 - PRIDE AND PREJUDICE by Jane Austen
 
 **Topics for Discussion:**
 
-1\. What is pride in the book? Which characters have it? Recall the state of mind characterized as "Pride" at the end of More's _Utopia_. Is it the same state of mind as the pride active in this book. Darcy clearly takes pride to be no bad thing: does the book endorse his view on this point?
+1\. What is pride in the book? Which characters have it? Recall the state of mind characterized as "Pride" at the end of More's *Utopia*. Is it the same state of mind as the pride active in this book. Darcy clearly takes pride to be no bad thing: does the book endorse his view on this point?
 
-2\. Again, what is prejudice? Which characters have it? Elizabeth is prejudiced against Darcy because he is apparently disdainful at the ball of Netherfield society where Elizabeth and her family have a measure of social importance. Here is _Pride and Prejudice_\--the title justified--at one blow! What exactly is the nature of Elizabeth's prejudice and can it be justified? What is the nature of Darcy's pride (in relation to Elizabeth) and can it be justified? Could the story have been written the other way about, with the woman proud and the man prejudiced?
+2\. Again, what is prejudice? Which characters have it? Elizabeth is prejudiced against Darcy because he is apparently disdainful at the ball of Netherfield society where Elizabeth and her family have a measure of social importance. Here is *Pride and Prejudice*\--the title justified--at one blow! What exactly is the nature of Elizabeth's prejudice and can it be justified? What is the nature of Darcy's pride (in relation to Elizabeth) and can it be justified? Could the story have been written the other way about, with the woman proud and the man prejudiced?
 
-3\. Certain words might be called "key-words" in this novel. One of them is "society": what does this word mean within the context of the novel? _Pride and Prejudice_ is often called a "social novel"; it is also called "a novel of manners", and the phrase "happy manners" is very important in the book. Bingham has happy manners; but so does the scoundrel Wickham. What does the phrase signify in the context of the book? What is the ethical value of happy manners?
+3\. Certain words might be called "key-words" in this novel. One of them is "society": what does this word mean within the context of the novel? *Pride and Prejudice* is often called a "social novel"; it is also called "a novel of manners", and the phrase "happy manners" is very important in the book. Bingham has happy manners; but so does the scoundrel Wickham. What does the phrase signify in the context of the book? What is the ethical value of happy manners?
 
 4\. Another important word is "sensible." Mr. Bennet says that he hopes Mr. Collins will not be a sensible man. What does he mean by this? The characters in the book can be arranged in a spectrum of sensibleness, with Mr. Collins at one end and Elizabeth at the other. Somewhere in between are Darcy, Mr. Bennet, Wickham, Jane. What is the measure of their good sense in each case?
 
-5\. It is sometimes said that the real heroine of _Pride and Prejudice_ is the narrative voice, which tells the story and belongs to no one in the novel. How would you characterize that voice. Consider the first sentence of the book: who among the characters in the book would be most apt to understand it?
+5\. It is sometimes said that the real heroine of *Pride and Prejudice* is the narrative voice, which tells the story and belongs to no one in the novel. How would you characterize that voice. Consider the first sentence of the book: who among the characters in the book would be most apt to understand it?
 
 6\. The narrative voice mocks Mrs. Bennet, when it says that her chief business was getting her daughters married. And yet getting Elizabeth married is the chief business of the book. In what way is marriage the great prize in the book, an apt narrative fulfillment to the story? Why is it so important? Do the characters all agree on its importance or is it valued differently among them?
 
@@ -181,22 +176,21 @@ Lecture #16 - PRIDE AND PREJUDICE by Jane Austen
 
 8\. But midway through the book, Elizabeth is led to exclaim: "Until this moment I never knew myself!" Laughing at oneself does not give access to self-knowledge, then. What does the phrase mean here? What would Montaigne say of it?
 
-Lecture #19 - PÈRE GORIOT by Balzac
------------------------------------
+## Lecture #19 - PÈRE GORIOT by Balzac
 
 **Topics for Discussion:**
 
 1\. Balzac begins his novel by calling the reader insensitive to human misery and insisting that his book is not a novel but a record of the truth. How does this introduction function rhetorically?
 
-2\. The central character in _Père Goriot_ is Eugène de Rastignac. Why is the book named after someone else? How sympathetic a character is Eugène? His ambition, we are told near the outset, is to succeed - "success, success at any cost." What is the meaning of success in this novel?
+2\. The central character in *Père Goriot* is Eugène de Rastignac. Why is the book named after someone else? How sympathetic a character is Eugène? His ambition, we are told near the outset, is to succeed - "success, success at any cost." What is the meaning of success in this novel?
 
-3\. Most of what Rousseau condemns in his Discourse on Inequality can be summed up by the phrase "social identity" - our way of thinking about who we are and what we ought to do in terms of our birth, our ancestry, our social position, and the kinds of manners, body-language, and habits of speech that goes with membership in a particular class of society. How do the characters in _Père Goriot_ think about the importance of social identity? How do their ways differ from the ways of the characters in _Pride and Prejudice_?
+3\. Most of what Rousseau condemns in his Discourse on Inequality can be summed up by the phrase "social identity" - our way of thinking about who we are and what we ought to do in terms of our birth, our ancestry, our social position, and the kinds of manners, body-language, and habits of speech that goes with membership in a particular class of society. How do the characters in *Père Goriot* think about the importance of social identity? How do their ways differ from the ways of the characters in *Pride and Prejudice*?
 
-4\. How would you describe the social identity of _Père Goriot_? Why is his name unmentionable in his daughter's household?
+4\. How would you describe the social identity of *Père Goriot*? Why is his name unmentionable in his daughter's household?
 
 5\. Eugène gets advice on how to succeed from two people, his cousin, Mme de Beauséant and the mysterious Vautrin. Is the advice the same? Vautrin identifies himself as a follower of the doctrines of Rousseau. What does Rousseau stand for here?
 
-6\. Money is very important to the characters in both _Pride and Prejudice_ and _Père Goriot_, but Jane Austen is more precise in her text about the specific sums involved. "Mixing money with love," says one of the characters in _Père Goriot_; "It's awful!" Is it awful? Why do the various characters need so much money? And why are the sums involved left so unspecific, when Jane Austen's characters tell us just how much income will do very nicely to sustain a decent position in society.
+6\. Money is very important to the characters in both *Pride and Prejudice* and *Père Goriot*, but Jane Austen is more precise in her text about the specific sums involved. "Mixing money with love," says one of the characters in *Père Goriot*; "It's awful!" Is it awful? Why do the various characters need so much money? And why are the sums involved left so unspecific, when Jane Austen's characters tell us just how much income will do very nicely to sustain a decent position in society.
 
 7\. Vautrin proposes a scheme to Eugène. What is it and why does Eugène hesitate to denounce it?
 
@@ -206,8 +200,7 @@ Lecture #19 - PÈRE GORIOT by Balzac
 
 10\. At the very end of the book, Eugène chooses among the alternatives confronting him. What choice does he make? And what enables him at last to make it?
 
-Lecture #22 - ON THE GENEALOGY OF MORALS (1887) by Friedrich Nietzsche (1844-1900)
-----------------------------------------------------------------------------------
+## Lecture #22 - ON THE GENEALOGY OF MORALS (1887) by Friedrich Nietzsche (1844-1900)
 
 **Topics for Discussion:**
 
@@ -231,8 +224,7 @@ Lecture #22 - ON THE GENEALOGY OF MORALS (1887) by Friedrich Nietzsche (1844-190
 
 10\. In chapter twelve of the second essay, Nietzsche argues that it is a mistake to suppose that the present function of any human institution yields clues to its origin in history. Can you paraphrase his argument here? How does it tie in with his criticism of those who locate the origin of morality in its utility? If present functions do not offer clues about the origin of human institutions, what does?
 
-Lecture #24, 25 - MAJOR BARBARA by George Bernard Shaw
-------------------------------------------------------
+## Lecture #24, 25 - MAJOR BARBARA by George Bernard Shaw
 
 **Topics for Discussion:**
 
@@ -244,12 +236,10 @@ Lady Britomart advises Stephen to accept his inheritance and then hire a manager
 
 Consider Lady Britomart's view that it is all right to manufacture and market munitions, provided that you sell them only to "the right sort of people". We have something of the same opinion today, in the insistence of our government that only certain sorts of nations have a right to nuclear weapons. In contrast, Undershaft will sell armaments to anyone who wishes to buy and will arrange for generous loans for those who cannot afford it. What view of the world underlies his practice? Perhaps we should think of Undershaft's munitions as the symbolic equivalent of power - power to do good or harm, power of aggression and of defense. In this light, we might consider the role of MIT professors, who sell managerial knowledge and arrange loans for those who cannot afford to buy. What would Lady Britomart think of this practice? Is the knowledge that Sloan sells a form of power? Should it be available only to the right sort of people?
 
-From the Sermon on the Mount, in _The Gospel_ according to St. Matthew: "Lead us not into temptation . . .", which may also be translated as "Please do not test us . . . " and is frequently so translated. Is it a good thing to pray not to be tested? The passage comes from what has come to be known as "The Lord's Prayer", which also instructs us to pray for forgiveness, so that we may be forgiven in turn. What is the power of forgiveness? Is there any other motive for doing it? Can the world use more forgiveness? Cusins, in the play, rejects forgiveness. "Forgiveness is the beggar's refuge. We must pay our debts." Our watchword for this term is "accountability"; Bill Walker seems to agree with Cusins, when he says, "What I done, I'll pay for". Note in this connection that Barbara gives Bill Walker a hard time, refusing to let him pay off his offense against Jenny Hill by getting his own face bashed in. What does she want of him? Explain. Is the power to forgive, forget, and start anew always "a beggar's refuge"?
+From the Sermon on the Mount, in *The Gospel* according to St. Matthew: "Lead us not into temptation . . .", which may also be translated as "Please do not test us . . . " and is frequently so translated. Is it a good thing to pray not to be tested? The passage comes from what has come to be known as "The Lord's Prayer", which also instructs us to pray for forgiveness, so that we may be forgiven in turn. What is the power of forgiveness? Is there any other motive for doing it? Can the world use more forgiveness? Cusins, in the play, rejects forgiveness. "Forgiveness is the beggar's refuge. We must pay our debts." Our watchword for this term is "accountability"; Bill Walker seems to agree with Cusins, when he says, "What I done, I'll pay for". Note in this connection that Barbara gives Bill Walker a hard time, refusing to let him pay off his offense against Jenny Hill by getting his own face bashed in. What does she want of him? Explain. Is the power to forgive, forget, and start anew always "a beggar's refuge"?
 
-{{< anchor "papers" >}}{{< /anchor >}}Paper Assignments
--------------------------------------------------------
+## {{< anchor "papers" >}}{{< /anchor >}}Paper Assignments
 
-*   Paper Assignment 1 ([PDF]({{< baseurl >}}/resources/paperassignment1))
-*   Paper Assignment 2 ([PDF]({{< baseurl >}}/resources/paperassignment2))
-    
-*   Paper Assignment 3 ([PDF]({{< baseurl >}}/resources/paperassignment3))
+- Paper Assignment 1 ({{% resource_link "7e3951a3-9621-06b6-1b55-067655d1a4e9" "PDF" %}})
+- Paper Assignment 2 ({{% resource_link "06fb0f1a-9134-5545-9d0f-7199d7d9177b" "PDF" %}})
+- Paper Assignment 3 ({{% resource_link "0a64626b-4f92-9824-5027-6a6c01615295" "PDF" %}})
