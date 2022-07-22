@@ -5,6 +5,7 @@ file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modern
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec15.pdf
 uid: d5a6aeb1-991b-89a0-911d-575c393ec7ca
 ---
 Fundamental Principles of the Metaphysic of Morals (1785)
-

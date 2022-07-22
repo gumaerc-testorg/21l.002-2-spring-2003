@@ -5,6 +5,7 @@ file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modern
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec1.pdf
 uid: 0a1dac6c-b666-0a0a-9aac-59506245c6b1
 ---
 The Prince
-

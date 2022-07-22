@@ -5,6 +5,7 @@ file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modern
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paperassignment2.pdf
 uid: 06fb0f1a-9134-5545-9d0f-7199d7d9177b
 ---
 Paper Assignment 2
-

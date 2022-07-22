@@ -5,6 +5,7 @@ file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modern
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec12.pdf
 uid: da4e423e-d4c5-729a-ae40-c9493eaa3f51
 ---
 Wordsworth - Tintern Abbey and excerpts from The Prelude
-
