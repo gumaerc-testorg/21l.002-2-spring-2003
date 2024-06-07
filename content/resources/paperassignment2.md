@@ -2,6 +2,7 @@
 content_type: resource
 description: Paper Assignment 2
 file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/06fb0f1a913455459d0f7199d7d9177b_paperassignment2.pdf
+file_size: 80099
 file_type: application/pdf
 learning_resource_types:
 - Assignments
