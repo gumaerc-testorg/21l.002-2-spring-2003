@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Prince
-file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/0a1dac6cb6660a0a9aac59506245c6b1_lec1.pdf
+file: /ol-ocw-studio-app/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/0a1dac6cb6660a0a9aac59506245c6b1_lec1.pdf
 file_size: 168743
 file_type: application/pdf
 learning_resource_types:
