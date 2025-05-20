@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Leviathan
-file: /ol-ocw-studio-app/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/fa9607b3585ee371e8beb8553e322a0b_lec7.pdf
+file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/fa9607b3585ee371e8beb8553e322a0b_lec7.pdf
 file_size: 556981
 file_type: application/pdf
 learning_resource_types:
