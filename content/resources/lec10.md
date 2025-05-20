@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Rousseau, On The Origins Of Inequality
-file: /ol-ocw-studio-app/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/ca03b4f8626b7dd4e765b4343aca5f3e_lec10.pdf
+file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/ca03b4f8626b7dd4e765b4343aca5f3e_lec10.pdf
 file_size: 412073
 file_type: application/pdf
 learning_resource_types:
