@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Utopia
-file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/d87e1994b6351b7906e24cc9ffc1c529_lec2.pdf
+file: /ol-ocw-studio-app/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/d87e1994b6351b7906e24cc9ffc1c529_lec2.pdf
 file_size: 409095
 file_type: application/pdf
 learning_resource_types:
