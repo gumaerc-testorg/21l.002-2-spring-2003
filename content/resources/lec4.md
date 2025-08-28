@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Essays of Montaigne
-file: /courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/11d021d5b5aed51ebe106a724ec12314_lec4.pdf
+file: /ol-ocw-studio-app/courses/21l-002-2-foundations-of-western-culture-ii-renaissance-to-modernity-spring-2003/11d021d5b5aed51ebe106a724ec12314_lec4.pdf
 file_size: 310411
 file_type: application/pdf
 learning_resource_types:
