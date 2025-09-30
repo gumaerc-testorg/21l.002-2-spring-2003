@@ -8,7 +8,7 @@ title: Readings
 uid: 9d677270-b413-81a7-a236-550671a4302c
 ---
 
-Many of the readings may be downloaded as excerpts in PDF format or, in complete form, from the [Project Gutenberg](http://gutenberg.org/) site. Those available for download have a direct link to the text listed next to the bibliographic entry.
+Many of the readings may be downloaded as excerpts in PDF format or, in complete form, from the {{% resource_link "107bbdf1-e187-40fa-b8d0-d9b8cf0c6912" "Project Gutenberg" %}} site. Those available for download have a direct link to the text listed next to the bibliographic entry.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -65,7 +65,7 @@ Montaigne. _Of Repentance_, _Of_ _Diversion_, _Of_ _Conserving the Will_ ({{% re
 {{< tdopen >}}
 Montaigne. _Of Experience_ ({{% resource_link 11d021d5-b5ae-d51e-be10-6a724ec12314 "PDF" %}})  
   
-Shakespeare. _King Lear_ ([download from Project Gutenberg site](http://www.gutenberg.org/etext/2266))
+Shakespeare. _King Lear_ ({{% resource_link "5574e824-96db-40c2-aa38-c871d9936726" "download from Project Gutenberg site" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ Hobbes. _Leviathan_ ({{% resource_link fa9607b3-585e-e371-e8be-b8553e322a0b "PDF
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Swift, Jonathan. _Gulliver's Travels_, IV ([download from Project Gutenberg site](http://www.gutenberg.org/etext/829))
+Swift, Jonathan. _Gulliver's Travels_, IV ({{% resource_link "7eb9c4b8-8dfe-406d-bfd2-fd5bba80624d" "download from Project Gutenberg site" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +173,7 @@ Kant, Immanuel. _The Metaphysical Foundation of Morals_ ({{% resource_link d5a6a
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Austen, Jane. _Pride and Prejudice_ ([download from Project Gutenberg site](http://www.gutenberg.org/etext/1342))
+Austen, Jane. _Pride and Prejudice_ ({{% resource_link "cb9a7f9f-ab88-41f4-97cf-29d8863671d5" "download from Project Gutenberg site" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -200,7 +200,7 @@ Austen, Jane. _Pride and Prejudice_ (continued)
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Balzac: _Père Goriot_ ([download from Project Gutenberg site](http://www.gutenberg.org/etext/1237))
+Balzac: _Père Goriot_ ({{% resource_link "2fca07b4-eb74-442e-9942-254157a27d00" "download from Project Gutenberg site" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -245,7 +245,7 @@ Nietzsche, Friedrich. _Père Goriot_ (continued)
 24
 {{< tdclose >}}
 {{< tdopen >}}
-Shaw, George Bernard. _Major Barbara_ ([download from Project Gutenberg site](http://www.gutenberg.org/etext/3790))
+Shaw, George Bernard. _Major Barbara_ ({{% resource_link "f366e34b-289b-4fd3-a8c9-0c37d81b96a5" "download from Project Gutenberg site" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
